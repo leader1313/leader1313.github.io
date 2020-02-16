@@ -78,8 +78,8 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: 
+    url: ""
     desc: Follow me on Twitter
     share: true
 
@@ -99,8 +99,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: Hanbit Oh
+    url: https://www.linkedin.com/in/hanbit-oh-0612
     desc: Connect with me on LinkedIn
     share: true
 
@@ -113,10 +113,10 @@ social:
 
   - name: YouTube
     icon: youtube
-    username: ""
-    url: ""
+    username: "Bitoforsing"
+    url: "https://www.youtube.com/channel/UC6mmZlNmBfnUZzJE6hVGJrg?view_as=subscriber"
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
