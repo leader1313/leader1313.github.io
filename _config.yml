@@ -9,10 +9,10 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Hanbit OH 's Blog
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: BITO's Blog
+subtitle: "Story of japan/food/science/coding"
+email: bitoforsing@gmail.com
+name: Hanbit Oh
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -92,8 +92,8 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: leader1313
+    url: https://github.com/leader1313
     desc: Fork me on GitHub
     share: false
 
